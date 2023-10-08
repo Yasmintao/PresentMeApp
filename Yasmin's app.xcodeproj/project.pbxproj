@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		182EDE7C2AD2B1010063F9E2 /* MaryamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDE7B2AD2B1010063F9E2 /* MaryamView.swift */; };
 		6844255B2AD2A9C100E935DF /* Presentmeapp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6844255A2AD2A9C100E935DF /* Presentmeapp.swift */; };
 		CC48E22F2AD2992B00F8B7A6 /* Yasmin_s_appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC48E22E2AD2992B00F8B7A6 /* Yasmin_s_appApp.swift */; };
 		CC48E2312AD2992B00F8B7A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC48E2302AD2992B00F8B7A6 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		182EDE7B2AD2B1010063F9E2 /* MaryamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaryamView.swift; sourceTree = "<group>"; };
 		6844255A2AD2A9C100E935DF /* Presentmeapp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Presentmeapp.swift; sourceTree = "<group>"; };
 		CC48E22B2AD2992B00F8B7A6 /* Yasmin's app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Yasmin's app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC48E22E2AD2992B00F8B7A6 /* Yasmin_s_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Yasmin_s_appApp.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				CC48E2302AD2992B00F8B7A6 /* ContentView.swift */,
 				CC48E2322AD2992D00F8B7A6 /* Assets.xcassets */,
 				CC48E2342AD2992D00F8B7A6 /* Preview Content */,
+				182EDE7B2AD2B1010063F9E2 /* MaryamView.swift */,
 			);
 			path = "Yasmin's app";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6844255B2AD2A9C100E935DF /* Presentmeapp.swift in Sources */,
+				182EDE7C2AD2B1010063F9E2 /* MaryamView.swift in Sources */,
 				CC48E2312AD2992B00F8B7A6 /* ContentView.swift in Sources */,
 				CC48E22F2AD2992B00F8B7A6 /* Yasmin_s_appApp.swift in Sources */,
 			);
