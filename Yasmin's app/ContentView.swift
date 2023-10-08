@@ -1,6 +1,6 @@
 //
-//  ContentView.swift
-//  Yasmin's app
+//  SwiftUIView2.swift
+//  Yasmin
 //
 //  Created by Yasmin on 23/03/1445 AH.
 //
@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    
     var body: some View {
     
         
@@ -30,8 +31,4 @@ struct ContentView: View {
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
